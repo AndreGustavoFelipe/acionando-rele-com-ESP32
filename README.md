@@ -3,6 +3,6 @@ Esta projeto tem o intuito de receber o valor de iluminação do ambiente atrav�
 
 Tecnlogias utilizadas:
 
--C++
+- C++
 
--Site TagoIO
+- Site TagoIO
